@@ -1,3 +1,9 @@
+# LEARN geoJSON #
+
+Some personal exercises.
+
+Under `./data` some geoJSON file tha can be load.
+
 # RESOURCES #
 
 [Importing Data into Maps](https://developers.google.com/maps/documentation/javascript/importing_data)
