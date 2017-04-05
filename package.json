@@ -13,5 +13,8 @@
     "gulp": "^3.9.1",
     "gulp-connect": "^5.0.0",
     "gulp-livereload": "^3.8.1"
+  },
+  "dependencies": {
+    "polyline": "^0.2.0"
   }
 }

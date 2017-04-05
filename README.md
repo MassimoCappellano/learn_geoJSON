@@ -14,3 +14,5 @@ Under `./data` some geoJSON file tha can be load.
 
 [Styling & Customizing File Inputs the Smart Way](https://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/)
 
+[Convert Google directions to GeoJSON points or polylines](http://zevross.com/blog/2014/09/23/convert-google-directions-to-geojson-points-or-polylines/)
+
