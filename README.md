@@ -16,3 +16,6 @@ Under `./data` some geoJSON file tha can be load.
 
 [Convert Google directions to GeoJSON points or polylines](http://zevross.com/blog/2014/09/23/convert-google-directions-to-geojson-points-or-polylines/)
 
+[Data Layer: Drag and Drop GeoJSON](https://developers.google.com/maps/documentation/javascript/examples/layer-data-dragndrop) Inspiration/Example on centering the map on geoJSON data.
+[example_drag_drop.html](./public/example_drag_drop.html)
+
