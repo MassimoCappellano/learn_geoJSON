@@ -39,6 +39,6 @@ var geoJSONObj = {
 console.log('---------------------------------------');
 console.log(JSON.stringify(geoJSONObj, null, 2));
 
-fs.writeFile('test.geojson', JSON.stringify(geoJSONObj, null, 2));
+fs.writeFile('test_path.geojson', JSON.stringify(geoJSONObj, null, 2));
 
 
