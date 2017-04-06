@@ -6,9 +6,9 @@ Under `./data` some geoJSON file tha can be load.
 
 # RESOURCES #
 
-[Importing Data into Maps](https://developers.google.com/maps/documentation/javascript/importing_data)
+[Importing Data into Maps](https://developers.google.com/maps/documentation/javascript/importing_data) for geoJSON data.
 
-[Open Data Milano](https://github.com/abahgat/opendata-milano)
+[Open Data Milano](https://github.com/abahgat/opendata-milano) Examples of geoJSON data, for Milan city.
 
 [Reading files in JavaScript using the File APIs](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
 
