@@ -12,11 +12,11 @@ Under `./data` some geoJSON file tha can be load.
 
 [Reading files in JavaScript using the File APIs](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
 
-* (./public/index_simple.html)
-* (./public/index_drag_drop.html)
-* (./public/index_read_file.html)
-* (./public/index_read_progress_bar.html)
-* (./public/index_read_slice.html)
+* [./public/index_simple.html](./public/index_simple.html)
+* [./public/index_drag_drop.html](./public/index_drag_drop.html)
+* [./public/index_read_file.html](./public/index_read_file.html)
+* [./public/index_read_progress_bar.html](./public/index_read_progress_bar.html)
+* [./public/index_read_slice.html](./public/index_read_slice.html)
 
 [Styling & Customizing File Inputs the Smart Way](https://tympanus.net/codrops/2015/09/15/styling-customizing-file-inputs-smart-way/)
 
